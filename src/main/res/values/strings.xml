@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RemoteTest</string>
+    <string name="endpoint">https://fakeendpoint.com/comment/</string>
+    <string name="server_error">It is not possible to connect to the server</string>
+    <string name="hint">Write new comment</string>
+    <string name="successfulMSG">Comment was posted successfuly</string>
+</resources>
